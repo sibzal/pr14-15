@@ -1,0 +1,28 @@
+.slider{
+    display: flex;
+    margin: auto;
+}
+.slider-place{
+    max-width: 400px;
+}
+.slide-img{
+    /* max-width: 100%; */
+    width: 500px;
+    height: 600px;
+    object-fit: cover;
+}
+.sliderr{
+    /* max-width: 100%; */
+    width: 500px;
+    height: 600px;
+    object-fit: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.slide{
+    object-fit: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

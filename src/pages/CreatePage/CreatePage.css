@@ -1,0 +1,29 @@
+.title-center{
+    text-align: center;
+    margin: 15px 0;
+}
+.create-form{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    margin: auto;
+}
+.input{
+    background-color: rgb(189, 189, 189);
+    padding: 10px 20px;
+    color: black;
+    border-radius: 10px;
+}
+.title-label{
+    font-size: 20px;
+    font-weight: 500;
+}
+.add_card{
+    display: inline-block;
+    background-color: #735184;
+    padding: 10px 20px;
+    border-radius: 12px;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-weight: 500;
+    color: white;
+}

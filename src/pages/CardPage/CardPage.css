@@ -1,0 +1,23 @@
+.cardPage-content{
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+}
+.cardPage{
+    height: 100%;
+    padding: 40px 0;
+}
+.right-card{
+    display: flex;
+    flex-direction: column;
+    width: 370px;
+}
+.card-img{
+    display: flex;
+    gap: 10px;
+
+}
+.cardPage-img{
+    height: 500px;
+    object-fit: cover;
+}
